@@ -1,5 +1,8 @@
 opencv-python
 mediapipe
 numpy
+matplotlib
+seaborn
 scikit-learn
 tensorflow
+ipykernel
