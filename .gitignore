@@ -2,6 +2,7 @@
 *.jpg
 *.png
 *.jpeg
+*.npy
 venv/
 logs/
 Dataset/
